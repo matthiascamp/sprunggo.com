@@ -38,7 +38,7 @@ That file could not be copied. All 105 checked local HTML/CSS asset paths exist 
 
 Repository: https://github.com/matthiascamp/sprunggo.com
 
-Pushes to `main` deploy the contents of `site/` through GitHub Pages. The custom domain is `sprunggo.com.au`.
+Pushes to `main` deploy the contents of `site/` through GitHub Pages. The custom domain is `sprung-go.com`. GitHub Pages must use **GitHub Actions** as its build source; publishing from the repository root serves this README instead of the website.
 
 At the domain's DNS provider, configure four `A` records for `@`:
 `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`.
