@@ -1,0 +1,12 @@
+{
+  "downloaded_urls": 160,
+  "downloaded_bytes": 111424764,
+  "local_asset_paths_checked": 105,
+  "missing_local_assets": [
+    "wp-content/uploads/2026/10/luxury_ad_final.mp4"
+  ],
+  "upstream_failures": {
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/luxury_ad_final.mp4": "curl: (56) The requested URL returned error: 404"
+  },
+  "visual_verification": "Not performed: in-app browser execution tool unavailable."
+}

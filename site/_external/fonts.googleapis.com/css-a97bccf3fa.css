@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VKmoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VamoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVamoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VamoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVamoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUqmoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUqmoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113UqmoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUqmoY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8vEZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4vEZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4vEZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vEZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4vEZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkvEZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkvEZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkvEZmv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkvEZmv.ttf) format('truetype');
+}

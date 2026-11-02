@@ -1,0 +1,968 @@
+{
+  "source": "https://sprung-go.com.au/",
+  "files": {
+    "https://sprung-go.com.au/": {
+      "path": "index.html",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 72770,
+      "sha256": "334220c757158baa4bb4063b211da170cd588cc451cea45a4a16caafb64a9ec2"
+    },
+    "https://sprung-go.com.au/wp-sitemap.xml": {
+      "path": "wp-sitemap.xml",
+      "content_type": "application/xml; charset=UTF-8",
+      "bytes": 369,
+      "sha256": "55e1d1eaff0d8af1443248b45033d28ab325a3b73b7fa1c759cfd01621361ee9"
+    },
+    "https://fonts.googleapis.com/css?family=Urbanist:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap": {
+      "path": "_external/fonts.googleapis.com/css-a97bccf3fa.css",
+      "content_type": "text/css; charset=utf-8",
+      "bytes": 4059,
+      "sha256": "fa71e7aed559793a7356c106a8c1c8e36fafefa10c20b2051bf376fe2c83044d"
+    },
+    "https://sprung-go.com.au": {
+      "path": "index.html",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 72770,
+      "sha256": "334220c757158baa4bb4063b211da170cd588cc451cea45a4a16caafb64a9ec2"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.0.4": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 43922,
+      "sha256": "749c1a5408410a742a0ee480b87ac2622c90c62f7c378e2480d60435bd4ff52a"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.0.4": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/frontend.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 23939,
+      "sha256": "2e684728f70d905f09f38a996426253d6208409930dc24e046658c18e898cb23"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.0.4": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 6242,
+      "sha256": "94514b098a447abf749743e3eebe1b76116bc86047643eec0521dde4af89fab6"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/modules/lottie/assets/animations/default.json": {
+      "path": "wp-content/plugins/elementor-pro/modules/lottie/assets/animations/default.json",
+      "content_type": "application/json",
+      "bytes": 112811,
+      "sha256": "f27cbedb9785e64fa35387faae0430ab2496edbf512c4b5ede1796c922d8dd39"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css",
+      "content_type": "text/css",
+      "bytes": 5486,
+      "sha256": "196f351ce1a780302b50e7b2404023102d7f555aa518d62ec678829c4b7b1185"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/css/frontend.min.css",
+      "content_type": "text/css",
+      "bytes": 54666,
+      "sha256": "0a5d398672e25dc7f020f69df92a985481b248a60e301fee232d0c8afd648dc5"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/css/widget-heading.min.css",
+      "content_type": "text/css",
+      "bytes": 560,
+      "sha256": "f68e889145cb0e47b7b190b2fdf087a9213a264ad33951512880c9f8bb6d0cd8"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css",
+      "content_type": "text/css",
+      "bytes": 342,
+      "sha256": "26da5f73e4bb1559c1f4865fa414fed4630a978addcb437dca43c5392a42e564"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/css/widget-image.min.css",
+      "content_type": "text/css",
+      "bytes": 214,
+      "sha256": "fb8690e594b2f9b841585895d811e8cb839667a1a63963d1a1cdea11e2aa2abb"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css",
+      "content_type": "text/css",
+      "bytes": 69,
+      "sha256": "fe20e3afdcbbdc9c58ca1dda0dc5bd3c3ce865d7d42ce445c85518c5939b4aae"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/css/widget-video.min.css",
+      "content_type": "text/css",
+      "bytes": 1243,
+      "sha256": "a70523cb50408132c72e2c22c692e9622fb1038894c74485609e9e7e08492387"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/js/frontend-modules.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 53086,
+      "sha256": "2636846470306c226883fb4ede46a96d71a54454d6c8b1bd9e26e6baf72db965"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/js/frontend.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 60022,
+      "sha256": "bbfe6403b4ddba29284c72d20f000154d04588d60850fc39a6fd65861c6d83e6"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/js/webpack.runtime.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 103,
+      "sha256": "8d2011a2a7c0d96582f8495b69b6e5f56432ed8b5095cf7aac7e2f259ea2fbfb"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css",
+      "content_type": "text/css",
+      "bytes": 59344,
+      "sha256": "d87ddf917b7a1449ab45e2b8e3c98354629bdd65b6659c37e6023bbea1ce1386"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css",
+      "content_type": "text/css",
+      "bytes": 26702,
+      "sha256": "c55902832fb84522d02ea1a60a30747403a140d8651fa748f13ba398b0c0df3a"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.3.5": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 15073,
+      "sha256": "6f35273b8502706ee06854d797337ab40bc1b3a7421960a2ceb5392ac85a0f54"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5": {
+      "path": "wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css",
+      "content_type": "text/css",
+      "bytes": 16471,
+      "sha256": "c57e64fcb72bddafa9c38de574441c3e69ac6c961df96b0cad34da83658bd196"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5": {
+      "path": "wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 143709,
+      "sha256": "2ac3af00c283c0b2ae6108fa83a2053e51274a2a812fb063916cbe19bc4f96b5"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=3.2.22": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css",
+      "content_type": "text/css",
+      "bytes": 283137,
+      "sha256": "87507c3c9664cdbce31a248fedc0d39d1c4774399040525511511636ab60f29a"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.css?ver=3.2.22": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.css",
+      "content_type": "text/css",
+      "bytes": 120006,
+      "sha256": "5f088df60ae5af8645eb7d4cbca1d641fcd23225e9eac268388d3bf4822b2c1a"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu.js?ver=3.2.22": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu.js",
+      "content_type": "application/x-javascript",
+      "bytes": 4700,
+      "sha256": "12b8738e85d5e3d66e77f00e4f2ae8c5b6a07212c6c02e27c47a692c36ce865d"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/metform/assets/libs/cute-alert/cute-alert.js?ver=4.3.2": {
+      "path": "wp-content/plugins/metform/assets/libs/cute-alert/cute-alert.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5683,
+      "sha256": "0321d9dc6f3fa2ef62f9d91f9d0364a020e6e5bc7ac2f8d84840017034ba0e4d"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/metform/assets/libs/cute-alert/style.css?ver=4.3.2": {
+      "path": "wp-content/plugins/metform/assets/libs/cute-alert/style.css",
+      "content_type": "text/css",
+      "bytes": 6037,
+      "sha256": "140ef7b4d0f06e1e7667c0ea11b63287dcd3b1f9354b7a74c691925a28196930"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/metform/assets/libs/htm/htm.js?ver=4.3.2": {
+      "path": "wp-content/plugins/metform/assets/libs/htm/htm.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1933,
+      "sha256": "5620a4aedbb462c87205657d5bec22013079576d7e1665190f1d90d7ebef593a"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/metform/assets/libs/text-editor/text-editor.css?ver=4.3.2": {
+      "path": "wp-content/plugins/metform/assets/libs/text-editor/text-editor.css",
+      "content_type": "text/css",
+      "bytes": 27683,
+      "sha256": "6e6d77ee2b6a6e725b6ca52a0566307b1b66c24bdd9d749168e8f343bbb7ed02"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/metform/build/frontend/app/index.js?ver=6ea98acae644b20be40c": {
+      "path": "wp-content/plugins/metform/build/frontend/app/index.js",
+      "content_type": "application/x-javascript",
+      "bytes": 530626,
+      "sha256": "3a797a459c25f7311d3270ef2b5542bca496b21daed08ecb729eb2ec44ed3c9b"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/metform/build/frontend/widget-bootstrap/index.js?ver=b445a4677483b289f57b": {
+      "path": "wp-content/plugins/metform/build/frontend/widget-bootstrap/index.js",
+      "content_type": "application/x-javascript",
+      "bytes": 796,
+      "sha256": "a6da77b42621b5dce569aa8c252b00f6d404f1b46de7e309d25a83a33ec2934d"
+    },
+    "https://sprung-go.com.au/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.7": {
+      "path": "wp-content/themes/hello-elementor/assets/css/header-footer.css",
+      "content_type": "text/css",
+      "bytes": 7182,
+      "sha256": "5052c28c33de995612b9c064753ee989d1e7755027e2b80292148728f444ec8d"
+    },
+    "https://sprung-go.com.au/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.7": {
+      "path": "wp-content/themes/hello-elementor/assets/css/reset.css",
+      "content_type": "text/css",
+      "bytes": 5456,
+      "sha256": "2f01a854a759c0a6a6911634e4ae5283b86a054908e4587c1fd17561fe4ce3cf"
+    },
+    "https://sprung-go.com.au/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.7": {
+      "path": "wp-content/themes/hello-elementor/assets/css/theme.css",
+      "content_type": "text/css",
+      "bytes": 5097,
+      "sha256": "9a7cfe03ec7638180859c5cd93ed18a75c0b4519c01849e2b6b2e2c90a0dea2f"
+    },
+    "https://sprung-go.com.au/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.7": {
+      "path": "wp-content/themes/hello-elementor/assets/js/hello-frontend.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1830,
+      "sha256": "268cae8c2e7a7330526dd33b7dadc1bbd08b039bca4acd70390d81a7ef644767"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/20261021_104234.mp4": {
+      "path": "wp-content/uploads/2026/10/20261021_104234.mp4",
+      "content_type": "video/mp4",
+      "bytes": 3340012,
+      "sha256": "2ef1387058d844cf7bcc99e6bdfcc2d984824289a5169acae0682bb3cd004444"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/Untitled.png": {
+      "path": "wp-content/uploads/2026/10/Untitled.png",
+      "content_type": "image/png",
+      "bytes": 2611071,
+      "sha256": "9824ac8862e0f2ad29e67db23ed22ee733134e2074a7ae9d5372bdf30536f83f"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/daviesh.mp4": {
+      "path": "wp-content/uploads/2026/10/daviesh.mp4",
+      "content_type": "video/mp4",
+      "bytes": 53387360,
+      "sha256": "c4924453070048a3e2a5f28f82d6f7f989dfe7c2a353538f58fd9090c42c9fd2"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/hero-1024x683.png": {
+      "path": "wp-content/uploads/2026/10/hero-1024x683.png",
+      "content_type": "image/png",
+      "bytes": 1042964,
+      "sha256": "fe843d5cf6cdcba49e40698bbbdd6c35ff76a921327fc50fa421953373b9363e"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/hero-300x200.png": {
+      "path": "wp-content/uploads/2026/10/hero-300x200.png",
+      "content_type": "image/png",
+      "bytes": 115550,
+      "sha256": "7ccdd0c746f7cefc5b3a57d04530a71b8d72ef6c83920df861d2417c55d568b7"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/hero-768x512.png": {
+      "path": "wp-content/uploads/2026/10/hero-768x512.png",
+      "content_type": "image/png",
+      "bytes": 615890,
+      "sha256": "8e2883de5548da37d7328b7cb5bd5984d40d422a34902a052dff086c5a815c11"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/hero.png": {
+      "path": "wp-content/uploads/2026/10/hero.png",
+      "content_type": "image/png",
+      "bytes": 2331862,
+      "sha256": "611a51f2e8bde52a36e259992dd2a25e529299ab73c9cab19dbe80cad7c069df"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/logo-1024x683.png": {
+      "path": "wp-content/uploads/2026/10/logo-1024x683.png",
+      "content_type": "image/png",
+      "bytes": 432076,
+      "sha256": "7def87d294722a9fc3a9431a95ce7d02948156e2c33e9560d23bc1865a665449"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/logo-300x200.png": {
+      "path": "wp-content/uploads/2026/10/logo-300x200.png",
+      "content_type": "image/png",
+      "bytes": 57136,
+      "sha256": "1e4d92191d627da52456c349a3fdfd346604790ee7b50dd8c92ea152a0a51bfe"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/logo-768x512.png": {
+      "path": "wp-content/uploads/2026/10/logo-768x512.png",
+      "content_type": "image/png",
+      "bytes": 266833,
+      "sha256": "f3bf4be494b067f364c44ba516a4612c25594de7405424144d43cfb98b7ea026"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/logo.png": {
+      "path": "wp-content/uploads/2026/10/logo.png",
+      "content_type": "image/png",
+      "bytes": 831183,
+      "sha256": "f18f2fb668a65302bb99ea74a9d35adef679cc7851aac9b95532601c6cc9a07a"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/prodcut2.mp4": {
+      "path": "wp-content/uploads/2026/10/prodcut2.mp4",
+      "content_type": "video/mp4",
+      "bytes": 29555357,
+      "sha256": "edb52600924c1bf804fd8619c361a5ddc7fb5ebf47d6a3491effeb7e6ccea75f"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/elementor/css/base-desktop.css?ver=6ad4f1f7d82c5": {
+      "path": "wp-content/uploads/elementor/css/base-desktop.css",
+      "content_type": "text/css",
+      "bytes": 4649,
+      "sha256": "85de55d3c62682fe18c9f7a651333743bd627b4739fa42904f741c1a16e52961"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/elementor/css/base-mobile.css?ver=6ad4f1f7d82c5": {
+      "path": "wp-content/uploads/elementor/css/base-mobile.css",
+      "content_type": "text/css",
+      "bytes": 87,
+      "sha256": "6d2c0fc112d7a76682334131ec4d0d618fadb44d42849933f88ae954ddd9d0d5"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/elementor/css/post-610.css?ver=1792340471": {
+      "path": "wp-content/uploads/elementor/css/post-610.css",
+      "content_type": "text/css",
+      "bytes": 9760,
+      "sha256": "6708ebfd61d0ac943928d40f7889ac9bf6275b7bf93d84874c57d113ddd9f932"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/elementor/css/post-614.css?ver=1793161664": {
+      "path": "wp-content/uploads/elementor/css/post-614.css",
+      "content_type": "text/css",
+      "bytes": 57620,
+      "sha256": "50688a08e232be55865f6241df0b8de63d5148748e82b84dd181061cef3c61c1"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/elementor/css/post-616.css?ver=1793064227": {
+      "path": "wp-content/uploads/elementor/css/post-616.css",
+      "content_type": "text/css",
+      "bytes": 15944,
+      "sha256": "ec381f0667e86f1fda5054a9e5026ccf04e14ad5f6cae3a3cbeee21a3068c4e5"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/elementor/css/post-622.css?ver=1793066545": {
+      "path": "wp-content/uploads/elementor/css/post-622.css",
+      "content_type": "text/css",
+      "bytes": 4442,
+      "sha256": "183644fe0ccedf41cbc092530e007a55ac3fb3ff3a5dd3da8ac600510d37631a"
+    },
+    "https://sprung-go.com.au/wp-includes/js/dist/element.min.js?ver=4a4370b2b349066fd440": {
+      "path": "wp-includes/js/dist/element.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 12468,
+      "sha256": "2be437b80ce46aa19c336211fe35b6ee3cb2d722fdee8926f0ad9b8a13bfd249"
+    },
+    "https://sprung-go.com.au/wp-includes/js/dist/escape-html.min.js?ver=87ebe53e97bba59805a5": {
+      "path": "wp-includes/js/dist/escape-html.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1158,
+      "sha256": "8aa496f29312a851197faa02fadbbbdc1c8b52cff7f402193af4bb1e30e39e04"
+    },
+    "https://sprung-go.com.au/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255": {
+      "path": "wp-includes/js/dist/hooks.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5107,
+      "sha256": "fc774906082b59dedcfc55b8ef127783b6d056578ff4586a8ebbdb81bbe286f1"
+    },
+    "https://sprung-go.com.au/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216": {
+      "path": "wp-includes/js/dist/i18n.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5791,
+      "sha256": "5083905862c2b7aa8a84c4f2313d359d2288fb25fbe1ff577fa7325eff2ed2d9"
+    },
+    "https://sprung-go.com.au/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1": {
+      "path": "wp-includes/js/dist/vendor/react-dom.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 131835,
+      "sha256": "35f4f974f4b2bcd44da73963347f8952e341f83909e4498227d4e26b98f66f0d"
+    },
+    "https://sprung-go.com.au/wp-includes/js/dist/vendor/react-jsx-runtime.min.js?ver=18.3.1": {
+      "path": "wp-includes/js/dist/vendor/react-jsx-runtime.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1137,
+      "sha256": "086c56ce48d2e3c5884a54e3c1aa8c65d2c595f0cd634716eda2b91066600bda"
+    },
+    "https://sprung-go.com.au/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1": {
+      "path": "wp-includes/js/dist/vendor/react.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 10751,
+      "sha256": "d949f1c3687aedadcedac85261865f29b17cd273997e7f6b2bfc53b2f9d4c4dd"
+    },
+    "https://sprung-go.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1": {
+      "path": "wp-includes/js/jquery/jquery-migrate.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 13577,
+      "sha256": "5274f11e6fb32ae0cf2dfb9f8043272865c397a7c4223b4cfa7d50ea52fbde89"
+    },
+    "https://sprung-go.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": {
+      "path": "wp-includes/js/jquery/jquery.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 87553,
+      "sha256": "cb6f2d32c49d1c2b25e9ffc9aaafa3f83075346c01bcd4ae6eb187392a4292cf"
+    },
+    "https://sprung-go.com.au/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2": {
+      "path": "wp-includes/js/jquery/ui/core.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 18674,
+      "sha256": "b7a27a4b4abfc300eaf7d9151afeef8df2663d98586e38f59f91bbe98ef30af7"
+    },
+    "https://sprung-go.com.au/wp-includes/js/wp-emoji-loader.min.js": {
+      "path": "wp-includes/js/wp-emoji-loader.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 2977,
+      "sha256": "2312e2af7de8ecba77b54d69322e66882c55e28d0bf538a2059cf804280bef8c"
+    },
+    "https://sprung-go.com.au/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4": {
+      "path": "wp-includes/js/wp-emoji-release.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 22752,
+      "sha256": "063840b4b3f5869e0f0d078bab8bd29cfb3a59ee85e8e3edbbec35a8fe846fd3"
+    },
+    "https://sprung-go.com.au/wp-sitemap-posts-page-1.xml": {
+      "path": "wp-sitemap-posts-page-1.xml",
+      "content_type": "application/xml; charset=UTF-8",
+      "bytes": 283,
+      "sha256": "a8accae3695e8f9a73c08409fe9b4f275cc743a5dc2afc14bfe3b5441195d5b6"
+    },
+    "https://sprung-go.com.au/wp-sitemap-users-1.xml": {
+      "path": "wp-sitemap-users-1.xml",
+      "content_type": "application/xml; charset=UTF-8",
+      "bytes": 327,
+      "sha256": "1a427180ce0a5826bb59bcb00533b2a9b905bd27749623ac6503ab5fe3a1a3bd"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4vEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4vEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 25880,
+      "sha256": "c0c372482f42d40f31a8ff51a232bfaf7d0e43cefa62eb6cd51a22a61734872e"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkvEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkvEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 25888,
+      "sha256": "9304c1a56ce32a26c94c7f19c1ebc16339d0c5b532d854b3ec3332b357a4d25e"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkvEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkvEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 25812,
+      "sha256": "eb57c07612a671b3fa4f49b94a05f0db6db1003bedc9c2d7e0852beba07e6622"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4vEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4vEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 25944,
+      "sha256": "8abb9de0a4a7e8918f53100697bc2bbef6e37ff367c92d05227a710c3b01f8b3"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkvEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkvEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26052,
+      "sha256": "c027f79bc2adf0776b2238a4136f87a1f1e3af4a819cb3276af99bb84126f28c"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkvEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkvEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 25976,
+      "sha256": "af3e7ee714c441990b24b0c42b4eb5a932f79c96d74fd249719506f4e271cda5"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4vEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4vEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 25888,
+      "sha256": "939ee57ae20442aec9a919ed0c0fe485ac091664db22255fc5af3386b3d461b6"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 25860,
+      "sha256": "cccccc1f1746db624d9454d804f9f0d82fba1f0047cc245546fb9ce4efef798e"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8vEZmv.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8vEZmv.ttf",
+      "content_type": "font/ttf",
+      "bytes": 25800,
+      "sha256": "b4d155f950208c32ede22567e27f22a098dd582e9153caf0175d1b5b9c63225b"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUqmoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUqmoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26580,
+      "sha256": "27a24a17eb4ba0961b611576dd6f77c1bf8628d2f47ab6b82e5f74b46d2f4dd4"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUqmoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUqmoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26700,
+      "sha256": "11fe8f89e8a425d1d4ad5c4a4e51bc2f45eeb1e96ba3d0f428d58eefd34fb1c0"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113UqmoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113UqmoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26880,
+      "sha256": "422a37d9891a435fdd59179418accb423b87350e9923ca42c099c5b6980d4a67"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VamoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VamoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26760,
+      "sha256": "f417c8f89348594174bb7c40a0ed1e7b6093237672a8c9845b48e03f210b77f3"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUqmoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUqmoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26780,
+      "sha256": "b122ae29fbead66bb548392656a08d27b74970609ad8436b7d314a8a8a7747e3"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVamoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVamoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26684,
+      "sha256": "c4a9fef677e4ae2a449e645ff0ed0563cbc476c99ec75c007578d513e9cee7e9"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VKmoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VKmoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26600,
+      "sha256": "8481a6d42586184d83635af9b20afbb6fc7fda70821fc452af9cf960f8ed571c"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VamoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VamoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26584,
+      "sha256": "9dc98113fde0f684456db021faeff805e983b9d9af50e41e7004ef5bf0173433"
+    },
+    "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVamoY8U.ttf": {
+      "path": "_external/fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVamoY8U.ttf",
+      "content_type": "font/ttf",
+      "bytes": 26676,
+      "sha256": "cd9040f6949c0e2d2e219eb8ab6684b9e7e371cc8afa20bbc11390991660d98b"
+    },
+    "https://sprung-go.com.au/author/forgecertadmin/": {
+      "path": "author/forgecertadmin/index.html",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 40750,
+      "sha256": "b83c399c8904ee8a2db619b0c0a0b14206885980abf9d3688e66befe4bd2ec3f"
+    },
+    "https://sprung-go.com.au/author/sprunggotcw/": {
+      "path": "author/sprunggotcw/index.html",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 40735,
+      "sha256": "dae0c906f42fcc27ffc7477a48bb92276760f01b15e4b53c8a42bda743f922eb"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/ajax-pagination.505018eb312c83998279.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/ajax-pagination.505018eb312c83998279.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 2798,
+      "sha256": "5f370dadc609f32bbe72303015a62775e4bb847d04e64f55dbe09385e8e2b160"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/animated-headline.bc08854fb1e1a80434b2.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/animated-headline.bc08854fb1e1a80434b2.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 7729,
+      "sha256": "0cbd8f6d4ebcad85d435c9a68c59a28f6020fe7b83a65d919fecc17557d2801c"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/archive-posts.0b71f7023819e3872142.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/archive-posts.0b71f7023819e3872142.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 8073,
+      "sha256": "304a6b360bea6287c251513e525c0d32d6e043c83085b9364403e2dc9d6a73f3"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/bd4b7d0b3467c3b749da.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/bd4b7d0b3467c3b749da.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 24199,
+      "sha256": "89ba663ad5f0f6331c8b14f34115fefca81033ccabaf4a4921e60d1afa45bd74"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/carousel.e2af910b095554625156.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/carousel.e2af910b095554625156.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5001,
+      "sha256": "bd45fe377322f5d20b6ef077ad3937b8924527b0e294189a4d452365ebadf74a"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/code-highlight.38ec4828db8d33cccbe9.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/code-highlight.38ec4828db8d33cccbe9.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 464,
+      "sha256": "a402d2a3b1f367c8dc0001b7260b56a5a71737704302b5ef1b37692c325d66e1"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/contact-buttons-var-10.11bf4233106e1245bd61.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/contact-buttons-var-10.11bf4233106e1245bd61.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 7827,
+      "sha256": "e906d3f7c0d426ad1587d7a5c9edb2073dc86870f1db0f76b31cfca663b9ee17"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/contact-buttons.e1605c5cfaccbff3c14b.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/contact-buttons.e1605c5cfaccbff3c14b.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 13809,
+      "sha256": "62c5f75823a45d8be2751fcc9893b39580b83c0f23884914c076d74bd69a6408"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/countdown.05b148ca20af32fc8e9f.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/countdown.05b148ca20af32fc8e9f.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 2678,
+      "sha256": "ad1a82c16736de9a0bfd8f4537deccc176ad136368b57f795647daa51dc8043b"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/floating-bars-var-2.5287acd8570f1ce2dde3.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/floating-bars-var-2.5287acd8570f1ce2dde3.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 14501,
+      "sha256": "6a6293a21f8a6dcbcc199f41585ba5459f6065b320c3245ad3c26c4177eaff60"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/floating-bars-var-3.e9e9c0ea3c6fb0e51c58.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/floating-bars-var-3.e9e9c0ea3c6fb0e51c58.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 13987,
+      "sha256": "32838c359aa83cbcf7ea1ac1c35e5a61dbfe57274b5dda8b0efe8ef823cc0d77"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/form.cfd61a9174be80f835c6.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/form.cfd61a9174be80f835c6.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 19710,
+      "sha256": "53992a2ed6164b81142288de3bda0f9dfbdc70f3eccb2fae85ae4f3f08fdad94"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/gallery.cca2358f59857ce6f62f.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/gallery.cca2358f59857ce6f62f.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5897,
+      "sha256": "e318c675ddc2883af0024fa1cbf7f06424c95474983ed7df40ed3a04d0fcaf53"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/hotspot.737497535441dc0bc037.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/hotspot.737497535441dc0bc037.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 2807,
+      "sha256": "67cf658ee7f71b5e1af3fa8b46367d083be300264febca0f6808caee592e3e09"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/load-more.7c4417f8a727b79f546f.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/load-more.7c4417f8a727b79f546f.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5329,
+      "sha256": "01ed966be627f9893b612e413b22170a96f318a147e09660288bea611fef3628"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/loop-carousel.881847b13e8fe1f8bfc2.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/loop-carousel.881847b13e8fe1f8bfc2.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1347,
+      "sha256": "e8a4c82ccb22d44d12a7e3a1a69d319cd8a47aea40223fdc91b4d6c9dbae78a0"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/loop.1594a1df76e87a11eda2.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/loop.1594a1df76e87a11eda2.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 8803,
+      "sha256": "41e7449f36126b804d4347860f9195cab5dca393c476c35efb65fc41b8158149"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/lottie.55ad84218daed1323133.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/lottie.55ad84218daed1323133.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 14385,
+      "sha256": "59e19b34bcd6cf0fa2ed67c4c249a7a6ce3c4a950373fc4f4b0d88deb3bd96ce"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/media-carousel.87c2cf115553a2c4f709.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/media-carousel.87c2cf115553a2c4f709.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 6980,
+      "sha256": "dc17d39fa9a1f8da9e2d1eb2d24128f4d09a89a8548f50e88f97e4f4119fd756"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/mega-menu-stretch-content.7ed04741ba7d5a80c556.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/mega-menu-stretch-content.7ed04741ba7d5a80c556.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1118,
+      "sha256": "7546f19684d4eac38775201278fbcefedf755615cd837d3ccc51cef4615bf3fe"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/mega-menu.857df1cf3198ae47b617.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/mega-menu.857df1cf3198ae47b617.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 28208,
+      "sha256": "22e53df7651101e5cbd2c246ae13dfdb3e62dfa36593b97df7d2dea8ae73934f"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/menu-title-keyboard-handler.b3891112675eb0b0c4d5.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/menu-title-keyboard-handler.b3891112675eb0b0c4d5.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 7683,
+      "sha256": "496e64c8ec2ec27919c0967a048070abbf81820cb5cf24cd8a09523d47633cca"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/nav-menu.3afa8f5eb1fef7c22561.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/nav-menu.3afa8f5eb1fef7c22561.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5227,
+      "sha256": "2a4d5f2bc7696ded02c94d092d6b0e69650e656523ddc2afab8c0fe4028ecce3"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/nested-carousel.659b0373371215e60dab.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/nested-carousel.659b0373371215e60dab.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 3362,
+      "sha256": "6514547460762c3e45ef75c256c78cd69d6d3a98e2780c88f33a396150e86fcd"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/off-canvas.82d118980fb5aa03c82b.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/off-canvas.82d118980fb5aa03c82b.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 6875,
+      "sha256": "82a8efa62e0c699b6794d7a0467583f71c229ed186f1d3a808409d3ae17dc700"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/paypal-button.5c63e4c8f36fb06aff31.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/paypal-button.5c63e4c8f36fb06aff31.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 865,
+      "sha256": "16d7994545fbdc5d540521a6cf94e4d72146ff1d8bf8b405add77ad0a61b7111"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/popup.61d4fcab8891b2e07802.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/popup.61d4fcab8891b2e07802.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 746,
+      "sha256": "30f18aea614f55816b40671afa77556c37e218882dd92ad60a1012b760cbdc4f"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/portfolio.3d0e387cc28c07bae511.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/portfolio.3d0e387cc28c07bae511.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 7248,
+      "sha256": "86d0878a91cde652a4ba27f657caf4afeaf2f1c0950547af722ece42f7d0b63f"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/posts.844727d8428792223d2f.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/posts.844727d8428792223d2f.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 3306,
+      "sha256": "8ab4723c00ef5ea2d66a1186214858d206e4a512161f49851ebd1cced1792de3"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/product-add-to-cart.a4f88a0c19e95b3912b6.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/product-add-to-cart.a4f88a0c19e95b3912b6.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 3485,
+      "sha256": "d384470bd6089cf8eec479b625f279def5ab6e4d732be567dcac7eda416ecab7"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/progress-tracker.7b160888e308c5f64701.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/progress-tracker.7b160888e308c5f64701.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5225,
+      "sha256": "b87a7639c9d1cc0bffa173c63971d18fedd26755c1734a752f1c80863aeb1e25"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/search-form.9abeafeecde90cf7e0f4.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/search-form.9abeafeecde90cf7e0f4.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 2106,
+      "sha256": "8cbb72e60a67910f5d343322e88fdd48a7411fa404b280ac398cbed667cfe9ad"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/search.f239247b514b4d0e8743.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/search.f239247b514b4d0e8743.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 13164,
+      "sha256": "7e7ea5880820a5af4ce51c5f0fe8de91a9b25dccb733669d3ff392e1ce519f9c"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/share-buttons.b99b5ff11c944a3a8ea9.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/share-buttons.b99b5ff11c944a3a8ea9.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1568,
+      "sha256": "4fc9ca495b46f3fc68547a2263346142f6ca6eef27815f378e3d7e4220a25f8c"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/slides.8e9b74f1b31471377df8.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/slides.8e9b74f1b31471377df8.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 3918,
+      "sha256": "04c70c0fd4ae1a9e50d4175646af168221156e4c54790ed38fdd381dd4b99e5d"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/social.de5cec83bf689b2f1f01.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/social.de5cec83bf689b2f1f01.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1012,
+      "sha256": "de54503455cdb14f33f392f7eca0849aca06fa4e56ead9c374a8ee64f9384d91"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/stripe-button.b7e32b5d713d60752c7e.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/stripe-button.b7e32b5d713d60752c7e.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 2001,
+      "sha256": "a74b109b94f679eb004d97f6ce93980ec62556f88a455b560e4973d5b6316854"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/table-of-contents.485ffc086d8923139868.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/table-of-contents.485ffc086d8923139868.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 8204,
+      "sha256": "73700936be8c46487452a9089fa65bb4e9482e844d143c40aedf5cefc386358e"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/taxonomy-filter.6526351a1205655def47.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/taxonomy-filter.6526351a1205655def47.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 7593,
+      "sha256": "d0fa6febb5d6ef0cdd0a1002ae1919e6d3cb8a6d209dae938a6a28784876e3af"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/video-playlist.d48e1a11007fe8c248f8.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/video-playlist.d48e1a11007fe8c248f8.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 22499,
+      "sha256": "544ce107d045451dcedae4f404a958ce350a347dbd6309a51951a145011539b1"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/woocommerce-cart.9131ef5e40333f8066dd.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/woocommerce-cart.9131ef5e40333f8066dd.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5160,
+      "sha256": "cc9a6c97f346eacf65733bc7394e38a14b4fb5aa3f8feb25217f0ba5dcd5dbd4"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/woocommerce-checkout-page.8391e03a51a57a42528a.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/woocommerce-checkout-page.8391e03a51a57a42528a.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 6590,
+      "sha256": "4893cbc6b407f04f8d95bd56620ada2e0d9c8ffcb1a8eb5fae1d8e01bb84b7a6"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/woocommerce-menu-cart.33fbf47b819947e7a2a7.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/woocommerce-menu-cart.33fbf47b819947e7a2a7.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 4646,
+      "sha256": "cbeea9cf81418b10f848981f78f1afbe165daf537727a93852b133d82990c6d8"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/woocommerce-my-account.ab469f426496c628ac6c.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/woocommerce-my-account.ab469f426496c628ac6c.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 6204,
+      "sha256": "c1e750e37b62b7985cd6bba5006d4d893580875a61b522c7c1f8118660997ca8"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/woocommerce-notices.181b8701c45ec5374829.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/woocommerce-notices.181b8701c45ec5374829.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 1873,
+      "sha256": "f4b0c15c55c8fb214f24eb8c03dd6697f744aab785649e8ceb92ba6296705ef8"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor-pro/assets/js/woocommerce-purchase-summary.118e54b95a68f0ad8c09.bundle.min.js": {
+      "path": "wp-content/plugins/elementor-pro/assets/js/woocommerce-purchase-summary.118e54b95a68f0ad8c09.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 3483,
+      "sha256": "c47cf05400e37acc9ee06e560438b7513cc90206b834e459b539ef51ff0e3e75"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 151556,
+      "sha256": "52633a4bd205e19c3cd09c8d2ee281557bc6242a99e7f69cad6c49a4d1fa9c06"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 749223,
+      "sha256": "5accc59868cdb3e81386c2f325823e8a82ce3b553912e2d43fb9abb4cd5a1e94"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "content_type": "application/x-font-ttf",
+      "bytes": 151368,
+      "sha256": "7c6ce17d6e55fb2b5267880fd0939c7e2be6de99bb57fa56a7fe2f40146c0137"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff",
+      "content_type": "application/font-woff",
+      "bytes": 97804,
+      "sha256": "284ec4299d1c93376385ef74c2aeaf7af4e1c6e63f5163a5e1e85ab4c5c79d76"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "content_type": "font/woff2",
+      "bytes": 81612,
+      "sha256": "6b2680fab784d245cbb23d3b51e8d18740e8fc1c7c1c8eadcf0b2b7612125ff8"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 34034,
+      "sha256": "cf83ffb8cf0023bd439dfdd5d02f1954b6ee027e85897d6cfc5f90bbca9ec1d2"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 144714,
+      "sha256": "2326849b6c3dfa217a0e9ecaec9553c910a4e2987c87315c85073d2b95a484f3"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf",
+      "content_type": "application/x-font-ttf",
+      "bytes": 33736,
+      "sha256": "c651b8a67d3193206f622c3c3b0fbca4a2f2727108c4212b52c1e2a2e84c9b31"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff",
+      "content_type": "application/font-woff",
+      "bytes": 16276,
+      "sha256": "14c9db4ff87fde08f67b0a69dd594bab6d87174812a0dbd34c59833bfed8cc0e"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "content_type": "font/woff2",
+      "bytes": 13276,
+      "sha256": "8afc6e5e842baab16010c2ce6fcf48ec4ded8e1579a37c1f1bc027e120d04951"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 203030,
+      "sha256": "75a761159ae266c5332a4f266e07a5543712ffb76ee0260b07782195c04dc364"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 918991,
+      "sha256": "fa498fb2596a5235c5c86d7b68a7fbe76e9855c01af4b0e5ab41c41047c648e0"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "content_type": "application/x-font-ttf",
+      "bytes": 202744,
+      "sha256": "3d06af1f31cd83ace7a265a014b8fb5dee15770ecac8f7a55555190e627e03c2"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff",
+      "content_type": "application/font-woff",
+      "bytes": 101652,
+      "sha256": "74edc18b67c487e32f181719fdb347e2e77020744651f446e9acd7bd6821e2e7"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2": {
+      "path": "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "content_type": "font/woff2",
+      "bytes": 78196,
+      "sha256": "d0b4256abed72481585662971262eabee345c19f837af00d7ce24239d3b40eef"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.eot?bv8d8l": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 1108005,
+      "sha256": "4aa2808c7f47b71e0ce4ee355354da084dca69a43e56a596df4d0bc4d9830777"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.svg?bv8d8l": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 2733431,
+      "sha256": "745edfe67d3307279261e91e15c3eb56c51fac67a26e908383ba0e7e860fb823"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.ttf?bv8d8l": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.ttf",
+      "content_type": "application/x-font-ttf",
+      "bytes": 892000,
+      "sha256": "6ddb508a4f5fbf6d2b49cf4333110f4965ed5afca51d9029e449ec1288417ac6"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.woff2?bv8d8l": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.woff2",
+      "content_type": "font/woff2",
+      "bytes": 401140,
+      "sha256": "986c16d318646b959f5e134927a2fd99c2428e97e152fe873797abb29d62a967"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.woff?bv8d8l": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.woff",
+      "content_type": "application/font-woff",
+      "bytes": 507320,
+      "sha256": "168df0286aa5037cc490a5376423612b051ecd0af78a25dc1ec20a4501ddfc74"
+    },
+    "https://sprung-go.com.au/wp-content/plugins/jeg-elementor-kit/assets/img/letter-x.svg": {
+      "path": "wp-content/plugins/jeg-elementor-kit/assets/img/letter-x.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 431,
+      "sha256": "6c05f7725a66447a4b37daacc8aa11f000617e06ee670ee6941932f8afd652a2"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/20261026_144452.jpg": {
+      "path": "wp-content/uploads/2026/10/20261026_144452.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 693971,
+      "sha256": "cbea207c77ba02e70cbd0d5a8c71407bc687ccfcab52e1d3ef49d16df5771cde"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/20261026_154933-rotated.jpg": {
+      "path": "wp-content/uploads/2026/10/20261026_154933-rotated.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 1111751,
+      "sha256": "e8b00b210d259c7c567533c2afb7115945d7f7f59d56996f60e3f473ee7ca588"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/banner-e1792899054135.jpg": {
+      "path": "wp-content/uploads/2026/10/banner-e1792899054135.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 690722,
+      "sha256": "c9df68ad9a888d30d7b848376c238797a42426881ee402c8aec6ac042b18f29f"
+    },
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/bounce.png": {
+      "path": "wp-content/uploads/2026/10/bounce.png",
+      "content_type": "image/png",
+      "bytes": 2514106,
+      "sha256": "09028003220e9c211e3f0a68604512371faf0e35d256c95bf8e3b574489cf241"
+    },
+    "https://sprung-go.com.au/wp-includes/css/dist/block-library/style.min.css?ver=7.1.4": {
+      "path": "wp-includes/css/dist/block-library/style.min.css",
+      "content_type": "text/css",
+      "bytes": 140829,
+      "sha256": "222ca4216c4f17530a03bf9701410b689d7d9c953c8ddcc9d4e8722d69c348aa"
+    }
+  },
+  "failures": {
+    "https://sprung-go.com.au/wp-content/uploads/2026/10/luxury_ad_final.mp4": "curl: (56) The requested URL returned error: 404"
+  }
+}
