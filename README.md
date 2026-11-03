@@ -28,11 +28,13 @@ The snapshot contains 160 successfully downloaded URLs (approximately 111 MB), i
 
 This is a static copy of publicly accessible files discovered from the site, not a WordPress installation or complete hosting backup. PHP source, the database, admin features, private files, and unlinked files cannot be recovered from the public URL. The quote form needs a working backend; local submissions are not processed. External service integrations may still require internet access and the original services.
 
-The original site references a video that currently returns HTTP 404:
+The three public Sprung-Go prototype videos from the WordPress media library are stored in `site/wp-content/uploads/2026/10/`. Three additional product images from that library are stored there as well. Published pages load their photos and videos from this repository rather than the WordPress host.
+
+The original site references a hidden video that currently returns HTTP 404:
 
 https://sprung-go.com.au/wp-content/uploads/2026/10/luxury_ad_final.mp4
 
-That file could not be copied. All 105 checked local HTML/CSS asset paths exist except this upstream-missing video. Browser rendering and interactive behavior have not been visually verified because the browser execution tool was unavailable. Consequently, pixel-perfect or fully functional equivalence is not certified.
+That file could not be copied, so its broken reference was removed from the static homepage. A browser audit found no remaining photo or video requests to the WordPress host. The WordPress quote form still needs a working backend; the static copy does not process submissions.
 
 ## Publishing
 
