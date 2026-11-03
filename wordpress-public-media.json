@@ -1,0 +1,593 @@
+{
+  "api": "https://sprung-go.com.au/wp-json/wp/v2/media?per_page=100&page=1",
+  "items": [
+    {
+      "id": 20,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/04/rgc-businesscoaching_logo-h.png",
+      "path": "site/wp-content/uploads/2026/04/rgc-businesscoaching_logo-h.png",
+      "bytes": 17349,
+      "sha256": "e2d20b06c473831f38034922582e74be89957ba422a57388ebb874e4e388d89e"
+    },
+    {
+      "id": 99,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/04/rgc-businesscoaching_logo-v-1-768x417-1.png",
+      "path": "site/wp-content/uploads/2026/04/rgc-businesscoaching_logo-v-1-768x417-1.png",
+      "bytes": 34071,
+      "sha256": "e78d9e4701390f31f306e0e9fd2ce30f3892cb08dce3bf954e9c9a84e3f127a2"
+    },
+    {
+      "id": 100,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/04/rgc-businesscoaching_logo-v-1-768x417-2.png",
+      "path": "site/wp-content/uploads/2026/04/rgc-businesscoaching_logo-v-1-768x417-2.png",
+      "bytes": 34071,
+      "sha256": "e78d9e4701390f31f306e0e9fd2ce30f3892cb08dce3bf954e9c9a84e3f127a2"
+    },
+    {
+      "id": 215,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/about-1.jpeg",
+      "path": "site/wp-content/uploads/2026/05/about-1.jpeg",
+      "bytes": 143984,
+      "sha256": "2ff783d3c22b0b4b5c0dd2e56c2c611ff63881d6c789b139345c42d07b24fd41"
+    },
+    {
+      "id": 242,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/coach.webp",
+      "path": "site/wp-content/uploads/2026/05/coach.webp",
+      "bytes": 44206,
+      "sha256": "1c36ec759eb62f9dd23097e8f31ae5052a868c65f129f8856a8807f13c66d420"
+    },
+    {
+      "id": 244,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/removals.jpg",
+      "path": "site/wp-content/uploads/2026/05/removals.jpg",
+      "bytes": 83246,
+      "sha256": "390e5eba88b53ce05fde0904ecf04e1fb5255a47eecb8eebc97d4523539c8c75"
+    },
+    {
+      "id": 257,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/diverse-people-in-a-seminar.jpg",
+      "path": "site/wp-content/uploads/2026/05/diverse-people-in-a-seminar.jpg",
+      "bytes": 126254,
+      "sha256": "109c653d09f960d11c383759f6761b96a2000c8cfe9ee57ce2dd6a07e35fb4d9"
+    },
+    {
+      "id": 274,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/Logo-Poto1-1.png",
+      "path": "site/wp-content/uploads/2026/05/Logo-Poto1-1.png",
+      "bytes": 16698,
+      "sha256": "68bdc83a481d7e88fc337acf50d037b086610a2c21b745004f3fe32dec8d01d6"
+    },
+    {
+      "id": 348,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/placeholder-1.png",
+      "path": "site/wp-content/uploads/2026/05/placeholder-1.png",
+      "bytes": 7102,
+      "sha256": "42e768691d1695701cbf29847fb9e02c00273d73cf5fd1b1471894be98f36c4d"
+    },
+    {
+      "id": 351,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/LEGIT.png",
+      "path": "site/wp-content/uploads/2026/05/LEGIT.png",
+      "bytes": 2785,
+      "sha256": "4fd06bf3495a1d3dc31a7bf5a71f316525c472033c20a2bda60babafea88301e"
+    },
+    {
+      "id": 418,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/emotions-and-fashion-concept-close-up-of-handsome-2022-12-16-06-16-51-utc.webp",
+      "path": "site/wp-content/uploads/2026/05/emotions-and-fashion-concept-close-up-of-handsome-2022-12-16-06-16-51-utc.webp",
+      "bytes": 100880,
+      "sha256": "2926f8af8edc8c5883aabe821571d45ce64e775b639a7fb4e8259c33f8f49335"
+    },
+    {
+      "id": 419,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/pattern1-1.png",
+      "path": "site/wp-content/uploads/2026/05/pattern1-1.png",
+      "bytes": 25859,
+      "sha256": "676ab918aaf3ebc8746f056b922f0aa82a036c552086811ec7a7d3bed7998c77"
+    },
+    {
+      "id": 420,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/11.webp",
+      "path": "site/wp-content/uploads/2026/05/11.webp",
+      "bytes": 64424,
+      "sha256": "751f5a190b431b18d77f1025f211d0afe62b4286cb50c312318f1e4de0396fc6"
+    },
+    {
+      "id": 421,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/12.webp",
+      "path": "site/wp-content/uploads/2026/05/12.webp",
+      "bytes": 74126,
+      "sha256": "3779e61281e89018a8bdbf58d7bb32cb5f254b6b1dc9b30565387897d39cb44f"
+    },
+    {
+      "id": 428,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/About-Section-2.jpg",
+      "path": "site/wp-content/uploads/2026/05/About-Section-2.jpg",
+      "bytes": 68609,
+      "sha256": "1c15c1830e8a6e4f8d67415844fa971303436004862c3128d16a457c304cd944"
+    },
+    {
+      "id": 429,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/why-choose-us.jpeg",
+      "path": "site/wp-content/uploads/2026/05/why-choose-us.jpeg",
+      "bytes": 2825,
+      "sha256": "1ad26fca4ed9f20951c152bff6614d2fffea32be4f37853d7329de14d44c51fb"
+    },
+    {
+      "id": 446,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/05/boxking_contact_img_3.jpg",
+      "path": "site/wp-content/uploads/2026/05/boxking_contact_img_3.jpg",
+      "bytes": 101398,
+      "sha256": "60cb199d8606e91f7ac0ece5abe0815e32aa0dd00ae29a795ac01ca87a12c538"
+    },
+    {
+      "id": 618,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Logo-Mavens.png",
+      "path": "site/wp-content/uploads/2026/10/Logo-Mavens.png",
+      "bytes": 7331,
+      "sha256": "7524b6340776d99d9e101684b104d96534834bf821efe4c372f8d290229f7d16"
+    },
+    {
+      "id": 624,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Logo-Mavens-Footer.png",
+      "path": "site/wp-content/uploads/2026/10/Logo-Mavens-Footer.png",
+      "bytes": 7494,
+      "sha256": "94fb26664b5d2120e74056d5f08c7fbb441bb155d4954233b2299d78ce505981"
+    },
+    {
+      "id": 628,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Logo-Client-1.png",
+      "path": "site/wp-content/uploads/2026/10/Logo-Client-1.png",
+      "bytes": 4975,
+      "sha256": "b42a66813647deaf600009bcafa79ac28f1661c498fbe58b3b06c21c2371dac6"
+    },
+    {
+      "id": 629,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Logo-Client-2.png",
+      "path": "site/wp-content/uploads/2026/10/Logo-Client-2.png",
+      "bytes": 4373,
+      "sha256": "573bf368ad0b22a731bbf5524ffbb55a7a002d87db0d021e8a2a65bb67edb990"
+    },
+    {
+      "id": 630,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Logo-Client-3.png",
+      "path": "site/wp-content/uploads/2026/10/Logo-Client-3.png",
+      "bytes": 4344,
+      "sha256": "3b584221ecf769994b515a82ec7539871a947ebcc67dfaa4579f40aa8d9778c4"
+    },
+    {
+      "id": 631,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Logo-Client-4.png",
+      "path": "site/wp-content/uploads/2026/10/Logo-Client-4.png",
+      "bytes": 4656,
+      "sha256": "8f4fd9748fbcecb3178a4e6624fdb106b863718c48dc359de1eaa3b76d9f2789"
+    },
+    {
+      "id": 632,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Logo-Client-5.png",
+      "path": "site/wp-content/uploads/2026/10/Logo-Client-5.png",
+      "bytes": 2571,
+      "sha256": "bc28011d82645d18baaeea8e629b9855bd36541d3fc96a50eacf61d1dfa16b0a"
+    },
+    {
+      "id": 633,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Logo-Client-6.png",
+      "path": "site/wp-content/uploads/2026/10/Logo-Client-6.png",
+      "bytes": 4373,
+      "sha256": "573bf368ad0b22a731bbf5524ffbb55a7a002d87db0d021e8a2a65bb67edb990"
+    },
+    {
+      "id": 634,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Rectangle-5.png",
+      "path": "site/wp-content/uploads/2026/10/Rectangle-5.png",
+      "bytes": 11960,
+      "sha256": "51e207737e85da8f25002be1830b198cec3018551c431379630dbee4bedbca48"
+    },
+    {
+      "id": 635,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Rectangle-4.png",
+      "path": "site/wp-content/uploads/2026/10/Rectangle-4.png",
+      "bytes": 12223,
+      "sha256": "7c19a9b530788eb9bd11fd24afd63f57918b6e8e0ca0c89e373806b77049c4dc"
+    },
+    {
+      "id": 636,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Hero-Image.jpg",
+      "path": "site/wp-content/uploads/2026/10/Hero-Image.jpg",
+      "bytes": 56793,
+      "sha256": "42464b0b2d2ceda242644e96c6df4f228b10dc94357b0dc0ad78a8d932fd1225"
+    },
+    {
+      "id": 637,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/unsplash_MSepzbKFz10.jpg",
+      "path": "site/wp-content/uploads/2026/10/unsplash_MSepzbKFz10.jpg",
+      "bytes": 1713,
+      "sha256": "d61c015bf9521739ccaa8ca83b7a833ad385203fa0e89e4d7d971129eb46dc25"
+    },
+    {
+      "id": 638,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Testimonial-Profil-2.jpg",
+      "path": "site/wp-content/uploads/2026/10/Testimonial-Profil-2.jpg",
+      "bytes": 1997,
+      "sha256": "122169f455fb67a7ae763689f6537dd12470145f1e48c7d1738cae7852e684ec"
+    },
+    {
+      "id": 639,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Testimonial-Profil-1.jpg",
+      "path": "site/wp-content/uploads/2026/10/Testimonial-Profil-1.jpg",
+      "bytes": 1467,
+      "sha256": "8e2d92ad1d21067b93c0da84b1d78f4a50aba1ed553af6923502cdaba1cf19e9"
+    },
+    {
+      "id": 640,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Service-1.jpg",
+      "path": "site/wp-content/uploads/2026/10/Service-1.jpg",
+      "bytes": 8510,
+      "sha256": "a5a1d30bbf3c042c4f25deeeb889a526930ac1a708b920f5a47365666099a62b"
+    },
+    {
+      "id": 641,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Service-2.jpg",
+      "path": "site/wp-content/uploads/2026/10/Service-2.jpg",
+      "bytes": 6330,
+      "sha256": "67d1f5ab2c29d0a465c82a9984849ee6fab485b1bfbaa5fab2bcb4534f53236e"
+    },
+    {
+      "id": 642,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Service-3.jpg",
+      "path": "site/wp-content/uploads/2026/10/Service-3.jpg",
+      "bytes": 6577,
+      "sha256": "3a057135e28ab28dc335c8b7b828c6241bc8838c5410aa3732a0104ba047154a"
+    },
+    {
+      "id": 643,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Work-1.jpg",
+      "path": "site/wp-content/uploads/2026/10/Work-1.jpg",
+      "bytes": 15921,
+      "sha256": "8b21112539ac26c8b3925857ee4d255e128a98162aea4fc15c01a6c90243129c"
+    },
+    {
+      "id": 644,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Work-2.jpg",
+      "path": "site/wp-content/uploads/2026/10/Work-2.jpg",
+      "bytes": 12644,
+      "sha256": "2546326ef59880007909d92e76835983e8abeaa3edab11be98cbc740081149f8"
+    },
+    {
+      "id": 645,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Work-3.jpg",
+      "path": "site/wp-content/uploads/2026/10/Work-3.jpg",
+      "bytes": 15844,
+      "sha256": "319060b4e53a1654c8b01dcc3f847876f458bfc5eb627f63fe3ffa17e85a49db"
+    },
+    {
+      "id": 646,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Work-4.jpg",
+      "path": "site/wp-content/uploads/2026/10/Work-4.jpg",
+      "bytes": 20916,
+      "sha256": "9bdc9002293f8d1eee971689dab2fd7b353529499639a791370c93c4b13fc0ff"
+    },
+    {
+      "id": 647,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Testimonial-Profil-3.jpg",
+      "path": "site/wp-content/uploads/2026/10/Testimonial-Profil-3.jpg",
+      "bytes": 1713,
+      "sha256": "d61c015bf9521739ccaa8ca83b7a833ad385203fa0e89e4d7d971129eb46dc25"
+    },
+    {
+      "id": 648,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Testimonial-Profil-4.jpg",
+      "path": "site/wp-content/uploads/2026/10/Testimonial-Profil-4.jpg",
+      "bytes": 1762,
+      "sha256": "f6a79fc602e1890dba9885a4d70aa9e99a334620e41a3b815dacb09649eada9f"
+    },
+    {
+      "id": 649,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Testimonial-Profil-5.jpg",
+      "path": "site/wp-content/uploads/2026/10/Testimonial-Profil-5.jpg",
+      "bytes": 1662,
+      "sha256": "f51604283831fdb3bc904f0d337c512a06e1f32c497eb9f1baed4002332ccf97"
+    },
+    {
+      "id": 650,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Testimonial-Profil-6.jpg",
+      "path": "site/wp-content/uploads/2026/10/Testimonial-Profil-6.jpg",
+      "bytes": 1903,
+      "sha256": "d783a513cd32cc58aa1b8e12b5789f3fb4cb32fcfc6c94d0b692fb953a7a0394"
+    },
+    {
+      "id": 651,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Blur-BG-CTA.png",
+      "path": "site/wp-content/uploads/2026/10/Blur-BG-CTA.png",
+      "bytes": 101077,
+      "sha256": "d934a190367d45ba2787847a0e2c1b681ae93578985c3583c256e700160359e0"
+    },
+    {
+      "id": 668,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/hero.jpg",
+      "path": "site/wp-content/uploads/2026/10/hero.jpg",
+      "bytes": 221134,
+      "sha256": "0081fc32e77cb3ee709bbda9a1d33452aeff11440a7515aa27d6dd88bab23c24"
+    },
+    {
+      "id": 672,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/HER0-2-scaled.jpeg",
+      "path": "site/wp-content/uploads/2026/10/HER0-2-scaled.jpeg",
+      "bytes": 415464,
+      "sha256": "8cb0b477e93f5eb24621f972aa0101d41589f0bb209bfa2ae53c2dfb95cf8e58"
+    },
+    {
+      "id": 677,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Adrian-Mavero-1.jpg",
+      "path": "site/wp-content/uploads/2026/10/Adrian-Mavero-1.jpg",
+      "bytes": 10803,
+      "sha256": "b7682753301cd2f829572fde900446374f1191a0fe29e14867216273d3af441f"
+    },
+    {
+      "id": 678,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Our-Journey.jpg",
+      "path": "site/wp-content/uploads/2026/10/Our-Journey.jpg",
+      "bytes": 17303,
+      "sha256": "702dfbdfd43836c7e18a291c50512ddac8c560cb02cdefdb9665324e510dc261"
+    },
+    {
+      "id": 679,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Vision-1.jpg",
+      "path": "site/wp-content/uploads/2026/10/Vision-1.jpg",
+      "bytes": 6630,
+      "sha256": "e000d92d7adf049b956f7cd0081fb6780a7d9bed69155b38193827b27df21046"
+    },
+    {
+      "id": 680,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Vision-3.jpg",
+      "path": "site/wp-content/uploads/2026/10/Vision-3.jpg",
+      "bytes": 8798,
+      "sha256": "d57b45c082bea593b5d615372b64d17343b10c83e53b343457d929eb52824cea"
+    },
+    {
+      "id": 681,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Vision-2.jpg",
+      "path": "site/wp-content/uploads/2026/10/Vision-2.jpg",
+      "bytes": 8303,
+      "sha256": "c8a6304378dc61eebc8ed7b261bbf0b614818cd47f116657ef68ebc89ebd6e6b"
+    },
+    {
+      "id": 682,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Adrian-Mavero-2.jpg",
+      "path": "site/wp-content/uploads/2026/10/Adrian-Mavero-2.jpg",
+      "bytes": 14605,
+      "sha256": "e146580967db266c8f32ccb7e087cdebc6739c33a00f4ca518bed9af7801ecf8"
+    },
+    {
+      "id": 683,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Elara-Quinn.jpg",
+      "path": "site/wp-content/uploads/2026/10/Elara-Quinn.jpg",
+      "bytes": 29626,
+      "sha256": "ae73e3c7e3e0c4b49a20e2ee4252d7e90808f064535a1c903dc385eff248f9ff"
+    },
+    {
+      "id": 684,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Nathan-Arlow.jpg",
+      "path": "site/wp-content/uploads/2026/10/Nathan-Arlow.jpg",
+      "bytes": 17705,
+      "sha256": "a612433f2996bea2c626062b29801a1f0f9fc5dae655884560e5d633e9cda9e1"
+    },
+    {
+      "id": 687,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/s-l1600.webp",
+      "path": "site/wp-content/uploads/2026/10/s-l1600.webp",
+      "bytes": 125140,
+      "sha256": "1c70d0c5c43322320c8eca0d523a1fc1787db0a65317d948aa40ef3ca9bfcc81"
+    },
+    {
+      "id": 697,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/3.jpeg",
+      "path": "site/wp-content/uploads/2026/10/3.jpeg",
+      "bytes": 76053,
+      "sha256": "473d00b942ce8c53c1f4ca3538c5ee3a134fa68afc80dc9262a46aece0e5d096"
+    },
+    {
+      "id": 698,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/s-l1600-2.webp",
+      "path": "site/wp-content/uploads/2026/10/s-l1600-2.webp",
+      "bytes": 256960,
+      "sha256": "e17a9de4c9e0b627c171b77530967962188e58ae39c2e644abb6c653e7ad4b5b"
+    },
+    {
+      "id": 699,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/s-l1600-1.webp",
+      "path": "site/wp-content/uploads/2026/10/s-l1600-1.webp",
+      "bytes": 33598,
+      "sha256": "fc879693d34209f1abf9d9dcbdf01467723664c1979043fc70489a8288dc07e0"
+    },
+    {
+      "id": 712,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/images.jpeg",
+      "path": "site/wp-content/uploads/2026/10/images.jpeg",
+      "bytes": 74320,
+      "sha256": "26c2d1f2bbdd1bebdf33ec4ea3799865c69ad7a57f8c0694b369c270793e533d"
+    },
+    {
+      "id": 713,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/images-1.jpeg",
+      "path": "site/wp-content/uploads/2026/10/images-1.jpeg",
+      "bytes": 37644,
+      "sha256": "40b516ec65b0ea15c00e7e5128a945d647566a68d381deacd5fde5f69b941fd9"
+    },
+    {
+      "id": 720,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/4.avif",
+      "path": "site/wp-content/uploads/2026/10/4.avif",
+      "bytes": 54461,
+      "sha256": "a43690e08582521910ac970967b798b842e4d8292d8079f3c16a2083fc985a60"
+    },
+    {
+      "id": 724,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Call-The-Plumber-Now-Van-1.webp",
+      "path": "site/wp-content/uploads/2026/10/Call-The-Plumber-Now-Van-1.webp",
+      "bytes": 153666,
+      "sha256": "3b0f1149cbb07b842a11cdafe125a10f4ceea9bd130a8d41dabc4a41c26f5f0e"
+    },
+    {
+      "id": 728,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/call_the_plumb_wlogo.webp",
+      "path": "site/wp-content/uploads/2026/10/call_the_plumb_wlogo.webp",
+      "bytes": 41090,
+      "sha256": "44dc30ad82b098add43b8b03825dd2a4033556cc998c9a5b7ab87c89dce195c7"
+    },
+    {
+      "id": 729,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Google_Favicon_2025.svg.webp",
+      "path": "site/wp-content/uploads/2026/10/Google_Favicon_2025.svg.webp",
+      "bytes": 12158,
+      "sha256": "75aa443fd25dea6a813318fc1870e274b710e8caaac85b1bd3b300db180e18ef"
+    },
+    {
+      "id": 730,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/footer_bg-1.webp",
+      "path": "site/wp-content/uploads/2026/10/footer_bg-1.webp",
+      "bytes": 109152,
+      "sha256": "4972c15c9739350e60ab110b1d9355844bf942f3c5c6bd54f6f01b8c40173b99"
+    },
+    {
+      "id": 746,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/logo.png",
+      "path": "site/wp-content/uploads/2026/10/logo.png",
+      "bytes": 831183,
+      "sha256": "f18f2fb668a65302bb99ea74a9d35adef679cc7851aac9b95532601c6cc9a07a"
+    },
+    {
+      "id": 770,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/HER0-2-1-scaled.jpeg",
+      "path": "site/wp-content/uploads/2026/10/HER0-2-1-scaled.jpeg",
+      "bytes": 415464,
+      "sha256": "8cb0b477e93f5eb24621f972aa0101d41589f0bb209bfa2ae53c2dfb95cf8e58"
+    },
+    {
+      "id": 771,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/her0-4.jpeg",
+      "path": "site/wp-content/uploads/2026/10/her0-4.jpeg",
+      "bytes": 74320,
+      "sha256": "26c2d1f2bbdd1bebdf33ec4ea3799865c69ad7a57f8c0694b369c270793e533d"
+    },
+    {
+      "id": 772,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/hero-5.jpeg",
+      "path": "site/wp-content/uploads/2026/10/hero-5.jpeg",
+      "bytes": 680302,
+      "sha256": "1bb8cc41e8596796843d96293b1cbb8652736ae23e5a4c166a0dab38cf6e3928"
+    },
+    {
+      "id": 782,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/img_1233.webp",
+      "path": "site/wp-content/uploads/2026/10/img_1233.webp",
+      "bytes": 256424,
+      "sha256": "8a809dd557a24bc9550f135ee649ccdf21be838f6c7f7bbe8f96e688e3201d4a"
+    },
+    {
+      "id": 789,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/unnamed.webp",
+      "path": "site/wp-content/uploads/2026/10/unnamed.webp",
+      "bytes": 175306,
+      "sha256": "29eb60c2b859ea468ba9dadefd0c0d6f7254e8c47b7a342d39f4ddfca44f9e9d"
+    },
+    {
+      "id": 805,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Toilet-Plumbing.jpg",
+      "path": "site/wp-content/uploads/2026/10/Toilet-Plumbing.jpg",
+      "bytes": 117833,
+      "sha256": "23b0fc811a9293b9a1d9a5a76030a34e32ed913dcaeacb21d404f626d1f24f51"
+    },
+    {
+      "id": 809,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/x.jpg",
+      "path": "site/wp-content/uploads/2026/10/x.jpg",
+      "bytes": 482867,
+      "sha256": "2f70525a5c6487356fae0aaab32ae97853ea09b789a23f9adfc32f276aeb128e"
+    },
+    {
+      "id": 827,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/hero-.png",
+      "path": "site/wp-content/uploads/2026/10/hero-.png",
+      "bytes": 2409156,
+      "sha256": "067e3299edacd62725d79b1a2a2a149e1b401c26ea89cd4df873340bfdaf514a"
+    },
+    {
+      "id": 831,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/hero.png",
+      "path": "site/wp-content/uploads/2026/10/hero.png",
+      "bytes": 2331862,
+      "sha256": "611a51f2e8bde52a36e259992dd2a25e529299ab73c9cab19dbe80cad7c069df"
+    },
+    {
+      "id": 836,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/bounce.png",
+      "path": "site/wp-content/uploads/2026/10/bounce.png",
+      "bytes": 2514106,
+      "sha256": "09028003220e9c211e3f0a68604512371faf0e35d256c95bf8e3b574489cf241"
+    },
+    {
+      "id": 847,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/20261021_101313-rotated-e1792806590763.jpg",
+      "path": "site/wp-content/uploads/2026/10/20261021_101313-rotated-e1792806590763.jpg",
+      "bytes": 709278,
+      "sha256": "716128e749c016b12e4eaefd7b826ebe80c4a88a6739694f6ae68f49f144ea28"
+    },
+    {
+      "id": 851,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/Untitled.png",
+      "path": "site/wp-content/uploads/2026/10/Untitled.png",
+      "bytes": 2611071,
+      "sha256": "9824ac8862e0f2ad29e67db23ed22ee733134e2074a7ae9d5372bdf30536f83f"
+    },
+    {
+      "id": 922,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/daviesh.mp4",
+      "path": "site/wp-content/uploads/2026/10/daviesh.mp4",
+      "bytes": 53387360,
+      "sha256": "c4924453070048a3e2a5f28f82d6f7f989dfe7c2a353538f58fd9090c42c9fd2"
+    },
+    {
+      "id": 932,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/prodcut2.mp4",
+      "path": "site/wp-content/uploads/2026/10/prodcut2.mp4",
+      "bytes": 29555357,
+      "sha256": "edb52600924c1bf804fd8619c361a5ddc7fb5ebf47d6a3491effeb7e6ccea75f"
+    },
+    {
+      "id": 937,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/20261021_104234.mp4",
+      "path": "site/wp-content/uploads/2026/10/20261021_104234.mp4",
+      "bytes": 3340012,
+      "sha256": "2ef1387058d844cf7bcc99e6bdfcc2d984824289a5169acae0682bb3cd004444"
+    },
+    {
+      "id": 941,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/banner-e1792899054135.jpg",
+      "path": "site/wp-content/uploads/2026/10/banner-e1792899054135.jpg",
+      "bytes": 690722,
+      "sha256": "c9df68ad9a888d30d7b848376c238797a42426881ee402c8aec6ac042b18f29f"
+    },
+    {
+      "id": 963,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/20261026_144452.jpg",
+      "path": "site/wp-content/uploads/2026/10/20261026_144452.jpg",
+      "bytes": 693971,
+      "sha256": "cbea207c77ba02e70cbd0d5a8c71407bc687ccfcab52e1d3ef49d16df5771cde"
+    },
+    {
+      "id": 964,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/20261026_154854-rotated.jpg",
+      "path": "site/wp-content/uploads/2026/10/20261026_154854-rotated.jpg",
+      "bytes": 1054907,
+      "sha256": "1f0ff364eba9171f4deb5a0f0593590fb1742310e83c5cb7a165ac0fc53ac31c"
+    },
+    {
+      "id": 979,
+      "url": "https://sprung-go.com.au/wp-content/uploads/2026/10/20261026_154933-rotated.jpg",
+      "path": "site/wp-content/uploads/2026/10/20261026_154933-rotated.jpg",
+      "bytes": 1111751,
+      "sha256": "e8b00b210d259c7c567533c2afb7115945d7f7f59d56996f60e3f473ee7ca588"
+    }
+  ]
+}

@@ -19,6 +19,8 @@ Use the local server rather than opening HTML files directly, because the site u
 - `original/`: original downloaded response bodies, before link rewriting.
 - `mirror-manifest.json`: source URLs, downloaded file paths, sizes, content types, SHA-256 checksums, and failures.
 - `verification.json`: results of the asset checks.
+- `wordpress-public-media.json`: URLs, local paths, sizes, and checksums for publicly listed WordPress media originals.
+- `scripts/archive_wordpress_media.py`: refreshes the public media archive.
 - `scripts/mirror.py`: downloader, using Python 3 and curl. Reuses files recorded in the manifest.
 - `scripts/verify.py`: validates files and local HTML/CSS asset references.
 
@@ -28,7 +30,7 @@ The snapshot contains 160 successfully downloaded URLs (approximately 111 MB), i
 
 This is a static copy of publicly accessible files discovered from the site, not a WordPress installation or complete hosting backup. PHP source, the database, admin features, private files, and unlinked files cannot be recovered from the public URL. The quote form needs a working backend; local submissions are not processed. External service integrations may still require internet access and the original services.
 
-The three public Sprung-Go prototype videos from the WordPress media library are stored in `site/wp-content/uploads/2026/10/`. Three additional product images from that library are stored there as well. Published pages load their photos and videos from this repository rather than the WordPress host.
+All 84 media originals returned by the public WordPress media API on 3 November 2026 were archived in `site/wp-content/uploads/`, including the three public Sprung-Go prototype videos. The API reports 101 total records but exposes only 84 through its public pages; the remaining records cannot be verified or downloaded from that listing. Published pages load their photos and videos from this repository rather than the WordPress host.
 
 The original site references a hidden video that currently returns HTTP 404:
 
